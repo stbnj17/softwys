@@ -1,0 +1,2 @@
+<?php
+/* Connect To Database*/
